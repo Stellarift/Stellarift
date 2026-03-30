@@ -1,26 +1,24 @@
-<h1 align="center">🐉 Stellarift / Developer </h1>
-
-### 🛠 Языки программирования
+<h1 align="center">🐉 ТВОЙ_НИК / Developer </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev" height="50" alt="typescript logo"  />
+
+![Python](https://img.shields.io)
+![C++](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![TypeScript](https://img.shields.io)
+
 </div>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app">
+  <img src="https://github-readme-stats.vercel.app" alt="Stats">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app">
+  <img src="https://github-profile-trophy-tawny.vercel.app" alt="Trophies">
 </p>
+
 
