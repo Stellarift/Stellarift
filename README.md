@@ -1,4 +1,4 @@
-# Привет, я Stellarift! 👋
+#Stellarift!
 
 ### 📊 Моя статистика GitHub
 ![Статистика](https://github-readme-stats.vercel.app)
