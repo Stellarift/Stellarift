@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Stellarift / +vibe </h1>
+<h1 align="center">⚡ Stellarift / Java's yellow lightning </h1>
 
 ###
 
